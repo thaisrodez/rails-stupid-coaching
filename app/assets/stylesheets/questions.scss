@@ -1,0 +1,30 @@
+// Place all the styles related to the Questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+body {
+  font-family: helvetica;;
+}
+
+a {
+  text-decoration: none;
+  color: #3279B7;
+}
+
+#button {
+  background-color: #3279B7;
+  border: none;
+  padding: 6px;
+  border-radius: 4px;
+  color: white;
+}
+
+#form {
+  padding: 4px;
+}
+
+.chat {
+  border-left: 3px grey solid;
+  padding: 4px 12px;
+  font-weight: lighter;
+  margin-bottom: 8px;
+}
